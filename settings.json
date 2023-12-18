@@ -1,8 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Atom One Dark",
-    "terminal.integrated.shell.windows": "C:\\Program Files\\cmder\\vendor\\git-for-windows\\bin\\bash.exe",
-    "prettier.printWidth": 120,
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -32,7 +30,7 @@
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "prettier.singleQuote": true,
+    "prettier.printWidth": 160,
     "turboConsoleLog.quote": "'",
     "turboConsoleLog.logMessagePrefix": "",
     "turboConsoleLog.includeFileNameAndLineNum": false,
